@@ -307,11 +307,14 @@ footer p {
         float: none;
         margin: 0 auto;
         text-align: center;
+        width: auto;
     }
     .Profile1 {
         float: none;
         margin: 0 auto;
         text-align: center;
+        width: 250px;
+        height: 250px;
     }    
     .Self-introduction h3 {
         margin-top: 20px;
